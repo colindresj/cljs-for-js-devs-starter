@@ -1,0 +1,12 @@
+{
+  "name": "cljs-for-js-devs-starter",
+  "author": "JC <jorge.e.colindres@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colindresj/cljs-for-js-devs-starter.git"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.3.32"
+  }
+}

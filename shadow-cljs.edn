@@ -1,0 +1,14 @@
+;; shadow-cljs configuration
+{:dependencies
+ []
+
+ :source-paths
+ ["src"]
+
+ :builds
+ {:app {:target     :browser
+        :output-dir "public/js"
+        :asset-path "/js"
+        :modules    {:main {:entries [cljs-for-js-devs.core]}}
+        :devtools   {:http-root "public"
+                     :http-port 8020}}}}

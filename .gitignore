@@ -1,0 +1,6 @@
+.nrepl-port
+public/js/*
+node_modules
+.shadow-cljs
+target
+*.log
