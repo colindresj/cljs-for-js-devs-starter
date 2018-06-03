@@ -122,7 +122,7 @@ Hi
 nil
 ```
 
-Now, do it again, but this time keep an idea on your browser's console.
+Now, do it again, but this time keep an eye on your browser's console.
 Amazingly, you'll see the string `"Hi"` printed there as well.
 
 Now, add a function to your core namespace:
@@ -142,6 +142,6 @@ hello...
 nil
 ```
 
-Again, your both your REPL and browser should print out the `"hello..."`
-message. Explore working the REPL so more, it's a core part of programming in
-ClojureScript.
+Again, both your REPL and browser should print out the `"hello..."`
+message. Explore working in the REPL some more, it's a core part of
+programming in ClojureScript.
